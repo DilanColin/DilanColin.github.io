@@ -9,11 +9,16 @@ website:
     right:
       - text: Home
         href: index.qmd
+        icon: houses
       - text: Projects
         href: Projects.qmd
+        icon: gear-wide-connected
       - text: Resume
         href: Resume.qmd
-      - about.qmd
+        icon: paperclip
+      - text: About
+        href: about.qmd
+        icon: file-earmark-person-fill
       - icon: github
         href: https://github.com/
       - icon: bluesky
@@ -21,7 +26,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - lux
       - brand
     css: styles.css
 
