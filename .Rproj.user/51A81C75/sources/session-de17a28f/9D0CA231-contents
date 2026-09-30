@@ -1,0 +1,16 @@
+---
+title: "Dilan Colin Portfolio"
+image: "DilanHeadshot.jpg"
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/DilanColin
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/dilancolin
+    - icon: inboxes
+      text: Contact
+      href: mailto:dcolin@uark.edu
+---
