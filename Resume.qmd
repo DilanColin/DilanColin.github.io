@@ -3,7 +3,6 @@ title: "Resume"
 format: html
 ---
 
-<iframe width="800" height="1000"
-src="DilanColinResumeUpdate2.pdf">
+<iframe width="800" height="1000" src="DilanColinResumeUpdate2.pdf">
 
 </iframe>

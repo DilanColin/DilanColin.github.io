@@ -1,5 +1,5 @@
 ---
-title: "Dilan Colin Portfolio"
+title: "Dilan Colin"
 image: "DilanHeadshot.jpg"
 about:
   template: jolla
@@ -14,3 +14,5 @@ about:
       text: Contact
       href: mailto:dcolin@uark.edu
 ---
+
+<span style="font-size: 1.1rem;"> My name is Dilan Colin, I am a sophomore at The University of Arkansas studying Industrial Engineering and Operation Analytics.
